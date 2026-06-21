@@ -20,7 +20,8 @@ ml/
 │   │   └── Lab7_KMeans.ipynb              # Unsupervised learning with K-Means
 │   ├── exams/                             # Mid-term examinations and practical tasks
 │   │   ├── MidTerm1.ipynb
-│   │   └── MidTerm2.ipynb
+│   │   ├── MidTerm2.ipynb
+│   │   └── datasets/                      # Synthetic evaluation datasets
 │   └── final_project/                     # Final Reinforcement Learning project
 │       ├── recycling_robot.ipynb          # RL Simulation & Agent Training
 │       └── recycling_robot_presentation.pptx # Project Presentation
