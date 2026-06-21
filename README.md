@@ -19,11 +19,16 @@ ml/
 │   │   │   ├── Lab5_NN.ipynb              # Introduction to Neural Networks
 │   │   │   ├── Lab6_OMP.ipynb             # Orthogonal Matching Pursuit (OMP)
 │   │   │   └── Lab7_KMeans.ipynb          # Unsupervised learning with K-Means
-│   │   └── deep_learning/                 # Deep Learning Assignments
-│   │       ├── 01_MLP_and_DNN.ipynb       # Multilayer Perceptron & DNNs
-│   │       ├── 02_CNN_Hands_On.ipynb      # Convolutional Neural Networks
-│   │       ├── 03_RNN_and_Transformers.ipynb # Recurrent NNs & Transformers
-│   │       └── 04_GANs_for_Images.ipynb   # Generative Adversarial Networks
+│   │   ├── deep_learning/                 # Deep Learning Assignments
+│   │   │   ├── Lab1_MLP_and_DNN.ipynb       # Multilayer Perceptron & DNNs
+│   │   │   ├── Lab2_CNN_Hands_On.ipynb      # Convolutional Neural Networks
+│   │   │   ├── Lab3_RNN_and_Transformers.ipynb # Recurrent NNs & Transformers
+│   │   │   └── Lab4_GANs_for_Images.ipynb   # Generative Adversarial Networks
+│   │   └── reinforcement_learning/        # Reinforcement Learning Assignments
+│   │       ├── Lab1_TicTacToe.ipynb       # Tic-Tac-Toe
+│   │       ├── Lab2_MonteCarlo.ipynb      # Monte Carlo methods
+│   │       ├── Lab3_MonteCarlo_Pseudocode.ipynb # Monte Carlo pseudocode/theory
+│   │       └── Lab4_MultiArmBandit.ipynb  # Multi-Armed Bandit problems
 │   ├── exams/                             # Mid-term examinations and practical tasks
 │   │   ├── MidTerm1.ipynb
 │   │   ├── MidTerm2.ipynb
