@@ -1,6 +1,6 @@
-# Machine Learning Course
+# Machine Learning Course - University of Genoa
 
-This repository contains the assignments, lab notebooks, and exams for the Machine Learning course. The project includes implementations of various machine learning algorithms using standard libraries such as `numpy`, `scipy`, `matplotlib`, and `tensorflow/keras`.
+This repository contains the assignments, lab notebooks, and exams for the Machine Learning course at the **University of Genoa** (Università degli Studi di Genova). The project includes implementations of various machine learning algorithms using standard libraries such as `numpy`, `scipy`, `matplotlib`, and `tensorflow/keras`.
 
 ## 📂 Repository Structure
 
@@ -59,4 +59,4 @@ To run these notebooks locally, ensure you have Python installed. It is highly r
 - [TensorFlow / Keras](https://www.tensorflow.org/) - Open source machine learning framework.
 
 ## 📝 License
-This project is for educational purposes as part of a Machine Learning course.
+This project is for educational purposes as part of the Machine Learning course at the University of Genoa.
