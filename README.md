@@ -4,18 +4,26 @@ This repository contains the assignments, lab notebooks, and exams for the Machi
 
 ## 📂 Repository Structure
 
-The project primarily consists of Jupyter Notebooks divided into different topics:
+The project has been organized into logical directories to separate the different types of assignments:
 
-- **`00_DataGeneration_unsolved.ipynb`**: Introduction to generating and handling synthetic datasets.
-- **`Lab1_KNN.ipynb`**: Implementation and exploration of the K-Nearest Neighbors (KNN) algorithm.
-- **`Lab2_RLS.ipynb`**: Regularized Least Squares (RLS).
-- **`Lab3_LogisticRegression.ipynb`**: Implementation of Logistic Regression for classification tasks.
-- **`Lab4_KRLS.ipynb`**: Kernel Regularized Least Squares (KRLS).
-- **`Lab5_NN.ipynb`**: Introduction to Neural Networks (NN).
-- **`Lab6_OMP.ipynb`**: Orthogonal Matching Pursuit (OMP) for sparse coding.
-- **`Lab7_KMeans.ipynb`**: Unsupervised learning with K-Means clustering.
-- **`MidTerm1.ipynb`**: First mid-term examination and practical tasks.
-- **`MidTerm2.ipynb`**: Second mid-term examination and practical tasks.
+```text
+ml/
+├── notebooks/
+│   ├── 00_DataGeneration_unsolved.ipynb   # Intro to generating & handling synthetic datasets
+│   ├── labs/                              # Weekly laboratory exercises
+│   │   ├── Lab1_KNN.ipynb                 # K-Nearest Neighbors (KNN)
+│   │   ├── Lab2_RLS.ipynb                 # Regularized Least Squares (RLS)
+│   │   ├── Lab3_LogisticRegression.ipynb  # Logistic Regression classification
+│   │   ├── Lab4_KRLS.ipynb                # Kernel Regularized Least Squares (KRLS)
+│   │   ├── Lab5_NN.ipynb                  # Introduction to Neural Networks
+│   │   ├── Lab6_OMP.ipynb                 # Orthogonal Matching Pursuit (OMP)
+│   │   └── Lab7_KMeans.ipynb              # Unsupervised learning with K-Means
+│   └── exams/                             # Mid-term examinations and practical tasks
+│       ├── MidTerm1.ipynb
+│       └── MidTerm2.ipynb
+├── requirements.txt                       # Project dependencies
+└── README.md
+```
 
 ## 🚀 Getting Started
 
