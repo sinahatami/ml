@@ -1,6 +1,6 @@
 # Machine Learning Course - University of Genoa
 
-This repository contains the assignments, lab notebooks, and exams for the Machine Learning course at the **University of Genoa** (Università degli Studi di Genova). The project includes implementations of various machine learning algorithms using standard libraries such as `numpy`, `scipy`, `matplotlib`, and `tensorflow/keras`.
+This repository contains the assignments, lab notebooks, exams, and the final Reinforcement Learning project for the Machine Learning course at the **University of Genoa** (Università degli Studi di Genova). The project includes implementations of various machine learning algorithms using standard libraries such as `numpy`, `scipy`, `matplotlib`, and `tensorflow/keras`.
 
 ## 📂 Repository Structure
 
@@ -18,9 +18,12 @@ ml/
 │   │   ├── Lab5_NN.ipynb                  # Introduction to Neural Networks
 │   │   ├── Lab6_OMP.ipynb                 # Orthogonal Matching Pursuit (OMP)
 │   │   └── Lab7_KMeans.ipynb              # Unsupervised learning with K-Means
-│   └── exams/                             # Mid-term examinations and practical tasks
-│       ├── MidTerm1.ipynb
-│       └── MidTerm2.ipynb
+│   ├── exams/                             # Mid-term examinations and practical tasks
+│   │   ├── MidTerm1.ipynb
+│   │   └── MidTerm2.ipynb
+│   └── final_project/                     # Final Reinforcement Learning project
+│       ├── recycling_robot.ipynb          # RL Simulation & Agent Training
+│       └── recycling_robot_presentation.pptx # Project Presentation
 ├── requirements.txt                       # Project dependencies
 └── README.md
 ```
