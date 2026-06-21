@@ -9,8 +9,8 @@ The project has been organized into logical directories to separate the differen
 ```text
 ml/
 ├── notebooks/
-│   ├── 00_DataGeneration_unsolved.ipynb   # Intro to generating & handling synthetic datasets
 │   ├── labs/                              # Weekly laboratory exercises
+│   │   ├── Lab0_DataGeneration.ipynb      # Intro to generating & handling synthetic datasets
 │   │   ├── Lab1_KNN.ipynb                 # K-Nearest Neighbors (KNN)
 │   │   ├── Lab2_RLS.ipynb                 # Regularized Least Squares (RLS)
 │   │   ├── Lab3_LogisticRegression.ipynb  # Logistic Regression classification
@@ -38,7 +38,7 @@ To run these notebooks locally, ensure you have Python installed. It is highly r
 
 1. Clone the repository:
    ```bash
-   git clone <your-repository-url>
+   git clone https://github.com/sinahatami/ml.git
    cd ml
    ```
 
