@@ -10,14 +10,20 @@ The project has been organized into logical directories to separate the differen
 ml/
 ├── notebooks/
 │   ├── labs/                              # Weekly laboratory exercises
-│   │   ├── Lab0_DataGeneration.ipynb      # Intro to generating & handling synthetic datasets
-│   │   ├── Lab1_KNN.ipynb                 # K-Nearest Neighbors (KNN)
-│   │   ├── Lab2_RLS.ipynb                 # Regularized Least Squares (RLS)
-│   │   ├── Lab3_LogisticRegression.ipynb  # Logistic Regression classification
-│   │   ├── Lab4_KRLS.ipynb                # Kernel Regularized Least Squares (KRLS)
-│   │   ├── Lab5_NN.ipynb                  # Introduction to Neural Networks
-│   │   ├── Lab6_OMP.ipynb                 # Orthogonal Matching Pursuit (OMP)
-│   │   └── Lab7_KMeans.ipynb              # Unsupervised learning with K-Means
+│   │   ├── machine_learning/              # Machine Learning Algorithms
+│   │   │   ├── Lab0_DataGeneration.ipynb  # Intro to generating & handling synthetic datasets
+│   │   │   ├── Lab1_KNN.ipynb             # K-Nearest Neighbors (KNN)
+│   │   │   ├── Lab2_RLS.ipynb             # Regularized Least Squares (RLS)
+│   │   │   ├── Lab3_LogisticRegression.ipynb # Logistic Regression classification
+│   │   │   ├── Lab4_KRLS.ipynb            # Kernel Regularized Least Squares (KRLS)
+│   │   │   ├── Lab5_NN.ipynb              # Introduction to Neural Networks
+│   │   │   ├── Lab6_OMP.ipynb             # Orthogonal Matching Pursuit (OMP)
+│   │   │   └── Lab7_KMeans.ipynb          # Unsupervised learning with K-Means
+│   │   └── deep_learning/                 # Deep Learning Assignments
+│   │       ├── 01_MLP_and_DNN.ipynb       # Multilayer Perceptron & DNNs
+│   │       ├── 02_CNN_Hands_On.ipynb      # Convolutional Neural Networks
+│   │       ├── 03_RNN_and_Transformers.ipynb # Recurrent NNs & Transformers
+│   │       └── 04_GANs_for_Images.ipynb   # Generative Adversarial Networks
 │   ├── exams/                             # Mid-term examinations and practical tasks
 │   │   ├── MidTerm1.ipynb
 │   │   ├── MidTerm2.ipynb
